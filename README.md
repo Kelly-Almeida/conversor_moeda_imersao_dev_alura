@@ -25,3 +25,5 @@ A finalidade deste projeto é proporcionar a inicialização e o entendimento do
     ```
 2.  **Abra o arquivo `index.html`** em seu navegador.
 3.  Digite o valor em Dólar no campo de entrada e veja o resultado em Real!
+
+![JavaScript](img.shields.io)
